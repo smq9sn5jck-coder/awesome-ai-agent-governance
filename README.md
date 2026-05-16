@@ -98,6 +98,7 @@ A governed agent runs with least-privilege tool access, an immutable audit trail
 
 ## Claude Code and MCP Governance
 
+- [FaultKey CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) — Deterministic AI-liability attribution via MCP. Issues signed, Bitcoin-anchored CausalCertificateV1 receipts that compute vendor/deployer/user fault shares; supports APRA CPS 230, EU AI Act Art. 12, NIST AI RMF and ISO/IEC 42001 evidence flows.
 - [systemprompt-core](https://github.com/systempromptio/systemprompt-core) - The MCP governance runtime. 30-crate Rust workspace handling authentication, authorisation, rate limiting, and logging for MCP server interactions. Published on crates.io under `systemprompt-*`.
 - [awesome-claude-code-security](https://github.com/efij/awesome-claude-code-security) - Curated list focused on Claude Code hardening: MCP server security, secrets scanning, prompt injection detection, and red-teaming frameworks.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - The canonical Claude Code community list covering tooling, hooks, slash-commands, agent skills, and workflows.
