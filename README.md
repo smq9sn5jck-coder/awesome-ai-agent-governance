@@ -128,6 +128,7 @@ A governed agent runs with least-privilege tool access, an immutable audit trail
 - [Portkey](https://portkey.ai/) - AI gateway with unified API for 250+ LLMs, request tracing, semantic caching, load balancing, and budget controls.
 - [Evidently AI](https://www.evidentlyai.com/) - Open-source ML and LLM monitoring. Detects data and model drift, generates monitoring reports, and evaluates LLM output quality.
 - [WhyLabs AI Observatory](https://whylabs.ai/) - AI observability platform monitoring LLM applications for drift, data quality issues, and policy violations in production.
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution engine exposed as a remote MCP server. Given a structured incident, returns a CausalCertificateV1: a signed, hash-chained, Bitcoin-anchored receipt allocating fault between AI vendor, deployer, and end-user. Four-factor scoring, Shapley-inspired multi-agent attribution, and jurisdiction-aware regulatory mapping (EU AI Act, NIST AI RMF, AU AI Ethics).
 
 ---
 
