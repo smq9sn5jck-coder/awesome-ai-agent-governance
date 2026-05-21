@@ -191,3 +191,12 @@ A governed agent runs with least-privilege tool access, an immutable audit trail
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive directory of MCP server implementations.
 - [AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Academic and policy resources for responsible AI covering ethics, standards, and regulatory frameworks.
+
+
+## Tools & Frameworks
+
+### Liability Attribution
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) — Deterministic AI liability attribution engine. Generates cryptographically-signed CausalCertificates for AI incident forensics. EU AI Act Art.12 compliant. [Live demo](https://faultkey.com/try)
+
+### Certificate Verification  
+- [CausalLayer Verifier](https://github.com/smq9sn5jck-coder/causallayer-verifier) — Independent zero-dependency verifier for CausalLayer certificates. Verify without trusting the issuer.
